@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.logo {
+    margin: 0;
+    padding: 16px;
+    background-color: dodgerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    list-style-type: none;
+}
+
+body > header > nav > ul {
+    list-style-type: none;
+    color: white;
+}
+
+body > header > nav > ul > li > a {
+    color: white;
+}
+
+body > main > article > form > p {
+    margin: 0;
+}
+
+.main-article {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+body > main > article > form > div {
+    text-align: right;
+}
+
+body > main > footer {
+    padding: 1px;
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+}
