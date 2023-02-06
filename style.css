@@ -40,3 +40,8 @@ body > main > footer {
     color: white;
     text-align: center;
 }
+
+.text-box {
+    width: 100%;
+    resize: none;
+}
